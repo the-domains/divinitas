@@ -1,6 +1,6 @@
 name: Divinitas Blog
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.25467
 typography_spectrum: 0.39162
 title: Divinitas - Random thoughts from our corner of the industry...
 cta:
@@ -20,10 +20,10 @@ color:
     - '#ffffff'
     - '#58585a'
     - '#949599'
-    - '#f37b20'
-    - '#f6c193'
-  brandStrength: 0.25
+    - '#f57722'
+    - '#cacacb'
+  brandStrength: 1
   lightness: 0.375
-  saturation: 0.25
-  rhythmicContrast: 0.25
+  saturation: 1
+  rhythmicContrast: 0.5
 purpose: []
