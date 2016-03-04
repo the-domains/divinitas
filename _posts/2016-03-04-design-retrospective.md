@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-04T20:08:03.900Z'
-dateModified: '2016-03-04T20:07:12.494Z'
+datePublished: '2016-03-04T20:16:18.462Z'
+dateModified: '2016-03-04T20:16:18.001Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-04-design-retrospective.md
@@ -21,4 +21,4 @@ publisher:
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ce63704-e7ae-48c6-a32e-5a7f73be8674.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b996c9f-3b4f-4d71-9ac5-f3b898affb5c.jpg)
