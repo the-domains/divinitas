@@ -4,7 +4,7 @@
         <description><![CDATA[Divinitas - Random thoughts from our corner of the industry...]]></description>
         <link>https://thegrid.ai/divinitas/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 18:06:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2016 18:17:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/divinitas/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/divinitas/185ac633-bc30-4f4c-a7a8-14501b82405e/index.html</link>
             <guid isPermaLink="false">185ac633-bc30-4f4c-a7a8-14501b82405e</guid>
             <pubDate>Fri, 04 Mar 2016 18:06:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/29c6f8cc-8533-4f46-b747-ff204827cff0.jpg">]]></description>
+            <link>https://thegrid.ai/divinitas/a6ef71c1-96de-403e-a90b-6bfa86c7b554/index.html</link>
+            <guid isPermaLink="false">a6ef71c1-96de-403e-a90b-6bfa86c7b554</guid>
+            <pubDate>Fri, 04 Mar 2016 18:14:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
