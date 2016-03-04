@@ -1,4 +1,4 @@
-name: Divinitas
+name: Divinitas Blog
 favicon: null
 layout_spectrum: 0.37892
 typography_spectrum: 0.39162
@@ -22,8 +22,8 @@ color:
     - '#949599'
     - '#f37b20'
     - '#f6c193'
-  brandStrength: 0.5
-  lightness: 0.9708953395020217
-  saturation: 0.1004396912176162
-  rhythmicContrast: 0.4893156071193516
+  brandStrength: 0.875
+  lightness: 0.0625
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
